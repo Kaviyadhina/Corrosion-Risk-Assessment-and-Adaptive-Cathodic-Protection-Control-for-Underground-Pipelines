@@ -1,0 +1,2 @@
+# Corrosion-Risk-Assessment-and-Adaptive-Cathodic-Protection-Control-for-Underground-Pipelines
+Underground pipelines are exposed to corrosion due to environmental conditions, leading to material degradation, leakage, and reduced service life. ⮚The proposed system uses multiple sensors to monitor temperature, pH, soil conductivity, soil moisture, soil resistivity, pipe-to-soil potential, and stray current.
